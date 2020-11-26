@@ -1,3 +1,8 @@
+This is the Change Background Project using Vanilla Javascript.
+
+In app.js
+
+
 1.Why the number 16777215?
 We all know that the colors range from #000000(pitch black) to #ffffff(pure white).
 The number of colors that exist from black to white as per rgb values are 16777216.
