@@ -25,3 +25,7 @@ Math.floor(Math.random()*16777215).toString(16);
 - All we need to now is just attach # before the string
 var randomColor = '#'+Math.floor(Math.random()*16777215).toString(16);
 //->#19feac
+
+
+
+Click on the link to view : - https://somit17.github.io/JSChangeBackground/
